@@ -1,2 +1,5 @@
 # hello-world
-this is a hello world project
+
+hi people1
+
+My name is Ancentus, app developer.
